@@ -1,19 +1,14 @@
-# Portfolio Blog Starter
+# Personal Portfolio
 
-This is a porfolio site template complete with a blog. Includes:
+This is a personal portfolio website built using Next.js, Tailwind CSS, and TypeScript. It showcases my skills, projects, and experience.
 
-- MDX and Markdown support
-- Optimized for SEO (sitemap, robots, JSON-LD schema)
-- RSS Feed
-- Dynamic OG images
-- Syntax highlighting
-- Tailwind v4
-- Vercel Speed Insights / Web Analytics
-- Geist font
+## Features
 
-## Demo
-
-https://portfolio-blog-starter.vercel.app
+- Responsive design for optimal viewing on different devices.
+- Interactive elements for user engagement.
+- Clean and modern UI/UX design.
+- Integration with social media profiles.
+- Contact form for easy communication.
 
 ## How to Use
 
